@@ -1,9 +1,9 @@
 # TaskMate
 To-Do List Android App using Java
 
-<img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/bcd2eb1a-9849-40e1-9d67-e7d90e5682f7"><br />
+<img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/bcd2eb1a-9849-40e1-9d67-e7d90e5682f7">
 
-<img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/98378320-0b52-4a24-ac8b-4b7ce90eccb1"><br />
+<img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/98378320-0b52-4a24-ac8b-4b7ce90eccb1">
 
 <img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/58b9aa06-b997-482a-812b-0478ff814ce1"><br />
 
