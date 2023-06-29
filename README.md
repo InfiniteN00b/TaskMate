@@ -1,7 +1,7 @@
 # TaskMate
 To-Do List Android App using Java
 
-<img width="100" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/bcd2eb1a-9849-40e1-9d67-e7d90e5682f7"><br />
+<img width="200" alt="cg2" src="https://github.com/InfiniteN00b/TaskMate/assets/96782523/bcd2eb1a-9849-40e1-9d67-e7d90e5682f7"><br />
 
 
 ![WhatsApp Image 2023-06-29 at 08 15 19](https://github.com/InfiniteN00b/TaskMate/assets/96782523/98378320-0b52-4a24-ac8b-4b7ce90eccb1)
